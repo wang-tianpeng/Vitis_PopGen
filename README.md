@@ -2,7 +2,7 @@
 
 Code repository for paper: **The dynamics of introgression and parallel adaptation across North American Vitis species (https://doi.org/10.64898/2026.02.23.707523)**
 
-This directory contains public-ready analysis scripts for Vitis population genomics, hybrid speciation, introgression, selection scans, convergent sweeps, phylogenomics, and species distribution modeling.
+This directory contains analysis scripts for Vitis population genomics, hybrid speciation, introgression, selection scans, convergent sweeps, phylogenomics, and species distribution modeling.
 
 ## Subdirectories
 
